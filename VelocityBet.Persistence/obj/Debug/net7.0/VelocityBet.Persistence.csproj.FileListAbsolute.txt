@@ -1,0 +1,17 @@
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\bin\Debug\net7.0\VelocityBet.Persistence.deps.json
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\bin\Debug\net7.0\VelocityBet.Persistence.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\bin\Debug\net7.0\VelocityBet.Persistence.pdb
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\bin\Debug\net7.0\VelocityBet.Application.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\bin\Debug\net7.0\VelocityBet.Domain.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\bin\Debug\net7.0\VelocityBet.Application.pdb
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\bin\Debug\net7.0\VelocityBet.Domain.pdb
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\VelocityBet.Persistence.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\VelocityBet.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\VelocityBet.Persistence.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\VelocityBet.Persistence.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\VelocityBet.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\VelocityBet.Persistence.csproj.CopyComplete
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\VelocityBet.Persistence.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\refint\VelocityBet.Persistence.dll
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\VelocityBet.Persistence.pdb
+C:\Users\vladi\OneDrive\Документы\DotNet\VelocityBet\VelocityBet.Persistence\obj\Debug\net7.0\ref\VelocityBet.Persistence.dll
